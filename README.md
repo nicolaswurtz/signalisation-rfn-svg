@@ -12,7 +12,18 @@ N'hésitez pas à faire des issues si jamais un élément n'était pas correct.
 
 Pour contribuer, ne réinventez pas la roue, prenez les éléments existants pour les modifier de façon à garantir une certaine homogénéité.
 
+## Graphisme
+
 La définition des fichiers est un carré de 64px de côté, cela permet également de conserver un ratio de taille homogène au sein d'une même famille de signalisation.
+
+## Nomenclature
+
+Les fichiers commencent soient par `sig_` pour un signal soit `pan_` pour une pancarte ou un panneau.  
+Ils ne **contiennent** pas d'espaces ou caractères spéciaux, et doivent être **en minuscules**.
+
+Un signal rappel de ralentissement 30 sera par exemple nommé : `sig_rr30.svg`.
+
+_Cette nomenclature sera amenée à évoluer suivant les signaux présents dans ce dépôt — les conventions de nommages suivent les données de l'[opendata sur la signalisation de SNCF Réseau](https://data.sncf.com/explore/dataset/signalisation-permanente).
 
 # Avertissement
 
