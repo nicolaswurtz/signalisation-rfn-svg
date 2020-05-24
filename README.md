@@ -1,8 +1,9 @@
 # Pancartes, panneaux et signaux RFN
 
 Voici les représentations au format vectoriel SVG des pancartes, panneaux et signaux de la signalisation ferroviaire du réseau ferroviaire national français, exploité entre autres par SNCF notamment.  
-La liste n'est pas exhaustive, donc n'hésitez pas à participer ;)  
-Et si quelqu'un voulait en faire une webfont ce serait super ! Donc...
+La liste n'est pas exhaustive, donc n'hésitez pas à participer ;)
+
+- [x] Et si quelqu'un voulait en faire une webfont ce serait super ! Donc...
 
 # Comment contribuer ?
 

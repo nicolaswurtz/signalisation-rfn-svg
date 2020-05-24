@@ -1,0 +1,135 @@
+@font-face {
+	font-family: "signalisation-rfn-svg";
+	src: url("/webfont.signalisation-rfn-svg.eot?#iefix") format("embedded-opentype"),
+url("/webfont.signalisation-rfn-svg.woff") format("woff"),
+url("/webfont.signalisation-rfn-svg.woff2") format("woff2"),
+url("/webfont.signalisation-rfn-svg.ttf") format("truetype"),
+url("/webfont.signalisation-rfn-svg.svg#signalisation-rfn-svg") format("svg");
+}
+
+.signalisation-rfn-svg {
+	line-height: 1;
+}
+
+.signalisation-rfn-svg:before {
+	font-family: signalisation-rfn-svg !important;
+	font-style: normal;
+	font-weight: normal !important;
+	vertical-align: top;
+}
+
+.signalisation-rfn-svg-pan_bpdis:before {
+	content: "\f101";
+}
+.signalisation-rfn-svg-pan_bpexe:before {
+	content: "\f102";
+}
+.signalisation-rfn-svg-pan_bpfin:before {
+	content: "\f103";
+}
+.signalisation-rfn-svg-pan_cab_dis:before {
+	content: "\f104";
+}
+.signalisation-rfn-svg-pan_cab_exe:before {
+	content: "\f105";
+}
+.signalisation-rfn-svg-pan_cab_fin:before {
+	content: "\f106";
+}
+.signalisation-rfn-svg-pan_cab_man:before {
+	content: "\f107";
+}
+.signalisation-rfn-svg-pan_cab_rep:before {
+	content: "\f108";
+}
+.signalisation-rfn-svg-pan_ccdist:before {
+	content: "\f109";
+}
+.signalisation-rfn-svg-pan_ccexe:before {
+	content: "\f10a";
+}
+.signalisation-rfn-svg-pan_ccfin:before {
+	content: "\f10b";
+}
+.signalisation-rfn-svg-pan_chevron_bas:before {
+	content: "\f10c";
+}
+.signalisation-rfn-svg-pan_chevron_haut:before {
+	content: "\f10d";
+}
+.signalisation-rfn-svg-pan_d:before {
+	content: "\f10e";
+}
+.signalisation-rfn-svg-pan_g:before {
+	content: "\f10f";
+}
+.signalisation-rfn-svg-pan_gabarit:before {
+	content: "\f110";
+}
+.signalisation-rfn-svg-pan_gare:before {
+	content: "\f111";
+}
+.signalisation-rfn-svg-pan_idd_d:before {
+	content: "\f112";
+}
+.signalisation-rfn-svg-pan_idd_g:before {
+	content: "\f113";
+}
+.signalisation-rfn-svg-pan_imp:before {
+	content: "\f114";
+}
+.signalisation-rfn-svg-pan_lm:before {
+	content: "\f115";
+}
+.signalisation-rfn-svg-pan_r:before {
+	content: "\f116";
+}
+.signalisation-rfn-svg-pan_rev:before {
+	content: "\f117";
+}
+.signalisation-rfn-svg-pan_siffler:before {
+	content: "\f118";
+}
+.signalisation-rfn-svg-pan_tecs:before {
+	content: "\f119";
+}
+.signalisation-rfn-svg-pan_tscs:before {
+	content: "\f11a";
+}
+.signalisation-rfn-svg-pan_tt:before {
+	content: "\f11b";
+}
+.signalisation-rfn-svg-pan_z:before {
+	content: "\f11c";
+}
+.signalisation-rfn-svg-sig_a_circu:before {
+	content: "\f11d";
+}
+.signalisation-rfn-svg-sig_bj:before {
+	content: "\f11e";
+}
+.signalisation-rfn-svg-sig_carre_d:before {
+	content: "\f11f";
+}
+.signalisation-rfn-svg-sig_carre_g:before {
+	content: "\f120";
+}
+.signalisation-rfn-svg-sig_carre:before {
+	content: "\f121";
+}
+.signalisation-rfn-svg-sig_cv:before {
+	content: "\f122";
+}
+.signalisation-rfn-svg-sig_disque:before {
+	content: "\f123";
+}
+.signalisation-rfn-svg-sig_fincat:before {
+	content: "\f124";
+}
+.signalisation-rfn-svg-sig_ga:before {
+	content: "\f125";
+}
+.signalisation-rfn-svg-sig_id:before {
+	content: "\f126";
+}
+
