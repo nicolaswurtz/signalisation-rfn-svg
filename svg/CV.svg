@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4.498 7.144" height="27" width="17">
+    <g transform="matrix(0 .26458 -.26458 0 46.971 10.313)" paint-order="markers stroke fill">
+        <rect ry="6.392" y="162.529" x="-36.979" height="13" width="23" fill="none" stroke="#000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect width="23" height="13" x="-36.979" y="162.529" ry="6.392" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="-30.479" cy="169.029" r="2.5" fill="#333"/>
+        <circle r="2.5" cy="169.029" cx="-20.479" fill="#f0f"/>
+    </g>
+</svg>

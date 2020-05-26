@@ -14,6 +14,8 @@ Pour contribuer, ne réinventez pas la roue, prenez les éléments existants pou
 
 La définition des fichiers est un carré de 64px de côté, cela permet également de conserver un ratio de taille homogène au sein d'une même famille de signalisation.
 
+Pour les pancartes, il est constitué d'un fond noir carré de 64px, un carré vide de 62px avec un contour de 4px, positionné à 1px du bord, puis d'un texte central de 32px de hauteur max, ou 24px si c'est trop long.
+
 ## Nomenclature
 
 Les fichiers commencent soient par `sig_` pour un signal soit `pan_` pour une pancarte ou un panneau.  

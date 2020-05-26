@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8.996 8.996" height="34" width="34">
+    <g paint-order="markers stroke fill" transform="translate(-124.014 -110.407)">
+        <circle r="3.984" cy="114.905" cx="128.512" fill="none" stroke="#000" stroke-width="1.028" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="128.512" cy="114.905" r="3.977" stroke="#fff" stroke-width=".513" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="113.714" cy="-130.629" r=".661" transform="rotate(90)" fill="#333" id="n1"/>
+        <circle transform="rotate(90)" r=".661" cy="-130.629" cx="115.831" fill="#f00" id="n2"/>
+        <circle cx="114.772" cy="-128.512" r=".661" transform="rotate(90)" fill="#333" id="n3"/>
+        <circle cx="117.418" cy="-128.512" r=".661" transform="rotate(90)" fill="#333" id="n4"/>
+        <circle transform="rotate(90)" r=".661" cy="-126.395" cx="113.714" fill="#333" id="n5"/>
+        <circle cx="115.831" cy="-126.395" r=".661" transform="rotate(90)" fill="#ff0" id="n6"/>
+    </g>
+</svg>
