@@ -79,24 +79,24 @@
        x="110.69945"
        y="7.8094225" />
     <g
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4"
        id="text837"
        aria-label="LM">
       <g
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.7399px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:11.8699"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.7399px;line-height:1.25;font-family:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:11.8699"
          id="text14"
          aria-label="LGR">
         <path
            id="path835"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:PoliceSNCF;-inkscape-font-specification:PoliceSNCF;fill:#ffffff;stroke-width:11.8699"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:PoliceSNCF;fill:#ffffff;stroke-width:11.8699"
            d="m 129.48481,44.446071 h -9.9689 V 24.971933 h -4.28895 v 23.739901 h 14.25785 z" />
         <path
            id="path837"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:PoliceSNCF;-inkscape-font-specification:PoliceSNCF;fill:#ffffff;stroke-width:11.8699"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:PoliceSNCF;fill:#ffffff;stroke-width:11.8699"
            d="m 138.96686,41.5945 h 2.85157 q 0,0.533221 -0.25502,1.020074 -0.23183,0.533221 -0.62595,0.92734 -0.41731,0.417303 -0.92734,0.649138 -0.53322,0.231835 -1.04326,0.255019 -0.53322,0 -1.02007,-0.255019 -0.53322,-0.231835 -0.92734,-0.649138 -0.41731,-0.394119 -0.67233,-0.92734 -0.23183,-0.510037 -0.23183,-1.020074 v -9.505233 q 0,-0.533221 0.23183,-1.043258 0.23184,-0.510036 0.67233,-0.927339 0.39412,-0.39412 0.92734,-0.625955 0.51003,-0.231835 1.02007,-0.255018 0.53322,0 1.04326,0.255018 0.51003,0.231835 0.92734,0.625955 0.39412,0.417303 0.62595,0.927339 0.23184,0.533221 0.25502,1.043258 h 4.26576 q 0,-1.298276 -0.60277,-2.573368 -0.60277,-1.275093 -1.59966,-2.341533 -1.04326,-1.020074 -2.34153,-1.599662 -1.27509,-0.602771 -2.57337,-0.602771 -1.29828,0 -2.59655,0.602771 -1.27509,0.602771 -2.29517,1.599662 -1.04326,1.043257 -1.64603,2.341533 -0.60277,1.275092 -0.57958,2.573368 V 41.5945 q 0,1.298276 0.57958,2.573369 0.60277,1.275092 1.64603,2.318349 1.02008,1.043258 2.29517,1.622845 1.27509,0.602771 2.59655,0.602771 1.29828,0 2.57337,-0.602771 1.27509,-0.602771 2.34153,-1.622845 1.02008,-1.020074 1.59966,-2.318349 0.60277,-1.275093 0.60277,-2.573369 v -4.288946 h -7.11733 z" />
         <path
            id="path839"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:PoliceSNCF;-inkscape-font-specification:PoliceSNCF;fill:#ffffff;stroke-width:11.8699"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:PoliceSNCF;fill:#ffffff;stroke-width:11.8699"
            d="m 164.23687,32.066083 q 0,-1.298275 -0.60277,-2.573368 -0.60277,-1.251909 -1.59966,-2.318349 -1.04326,-1.020074 -2.34153,-1.599662 -1.2751,-0.602771 -2.57337,-0.602771 h -7.14052 v 23.739901 h 4.28895 V 39.2066 h 2.85157 q 0.53322,0 1.04325,0.255019 0.51004,0.231835 0.92734,0.625954 0.39412,0.417303 0.62596,0.92734 0.23183,0.53322 0.23183,1.043257 v 6.653664 h 4.28895 V 42.05817 q 0,-1.228725 -0.2782,-2.156065 -0.30139,-0.92734 -0.71869,-1.506927 -0.4173,-0.602771 -0.76506,-0.880973 -0.34775,-0.255018 -0.60277,-0.440486 l 0.0464,-0.04637 q 0.2782,-0.278202 0.62596,-0.649138 0.32456,-0.370936 0.74187,-1.043258 0.37093,-0.649138 0.67232,-1.483743 0.2782,-0.834606 0.2782,-1.78513 z m -7.11733,2.874754 h -2.85157 v -5.70314 h 2.85157 q 0.53322,0 1.04325,0.255018 0.51004,0.231835 0.92734,0.625955 0.39412,0.417303 0.62596,0.927339 0.23183,0.533221 0.23183,1.043258 0,0.53322 -0.23183,1.020074 -0.23184,0.53322 -0.62596,0.92734 -0.4173,0.417303 -0.92734,0.672321 -0.51003,0.231835 -1.04325,0.231835 z" />
       </g>
     </g>

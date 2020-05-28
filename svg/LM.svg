@@ -79,16 +79,16 @@
        x="110.69945"
        y="7.8094225" />
     <g
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4"
        id="text837"
        aria-label="LM">
       <path
          id="path839"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:PoliceSNCF;-inkscape-font-specification:PoliceSNCF;fill:#ffffff;stroke-width:4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:PoliceSNCF;fill:#ffffff;stroke-width:4"
          d="m 134.38816,47.091885 h -13.4375 v -26.25 h -5.78125 v 32 h 19.21875 z" />
       <path
          id="path841"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:PoliceSNCF;-inkscape-font-specification:PoliceSNCF;fill:#ffffff;stroke-width:4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:PoliceSNCF;fill:#ffffff;stroke-width:4"
          d="m 153.07566,52.841885 5.40625,-13.75 0.0312,13.75 h 5.78125 v -32 h -5.78125 l -7.03125,21.4375 -7.03125,-21.4375 h -5.78125 v 32 h 5.78125 v -13.75 l 5.4375,13.75 z" />
     </g>
   </g>
