@@ -1,0 +1,1920 @@
+{
+  "A": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 0
+  },
+  "APPROETSA": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 0
+  },
+  "ARRET": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 64
+  },
+  "ARRET A": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 64
+  },
+  "ARRET VOY": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 0
+  },
+  "ARRET VOY 10V": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 0
+  },
+  "ARRET VOY 11V": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 64
+  },
+  "ARRET VOY 12V": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 64
+  },
+  "ARRET VOY 13V": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 128
+  },
+  "ARRET VOY 14V": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 128
+  },
+  "ARRET VOY 2V": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 128
+  },
+  "ARRET VOY 3V": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 128
+  },
+  "ARRET VOY 3V 4V": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 192
+  },
+  "ARRET VOY 4V": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 192
+  },
+  "ARRET VOY 4V 5V": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 192
+  },
+  "ARRET VOY 4V 6V": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 192
+  },
+  "ARRET VOY 5V": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 0
+  },
+  "ARRET VOY 6V": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 0
+  },
+  "ARRET VOY 6V 8V": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 0
+  },
+  "ARRET VOY 7V": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 448,
+    "y": 0
+  },
+  "ARRET VOY 8V": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 64
+  },
+  "ARRET VOY 8V 10V": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 64
+  },
+  "ARRET VOY 9V": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 64
+  },
+  "ARRET VOY TGV1": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 448,
+    "y": 64
+  },
+  "ARRET VOY TGV1-2": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 128
+  },
+  "ARRET VOY TGV2": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 128
+  },
+  "ARRET VOY TT": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 128
+  },
+  "ARRET VOY TTL": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 448,
+    "y": 128
+  },
+  "ARRET VOY Z50-1": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 192
+  },
+  "ARRET VOY Z50-2": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 192
+  },
+  "ARRETDESSERTE": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 192
+  },
+  "ARRETMAN": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 448,
+    "y": 192
+  },
+  "ARRETREF": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 256
+  },
+  "ARRETTRAINS": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 256
+  },
+  "ATC": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 256
+  },
+  "BANDEJAUNE": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 256
+  },
+  "BP DIS": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 256
+  },
+  "BP EXE": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 256
+  },
+  "BP FIN": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 256
+  },
+  "CAB E": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 448,
+    "y": 256
+  },
+  "CAB R": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 320
+  },
+  "CAB S": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 320
+  },
+  "CARRE": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 320
+  },
+  "CC EXE": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 320
+  },
+  "CC FIN": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 320
+  },
+  "CHEVRON BAS": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 320
+  },
+  "CHEVRON HAUT": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 320
+  },
+  "CV": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 448,
+    "y": 320
+  },
+  "D": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 384
+  },
+  "DD": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 384
+  },
+  "DEPOT": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 384
+  },
+  "FIN CAT": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 384
+  },
+  "G": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 384
+  },
+  "GA": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 384
+  },
+  "GABARIT": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 384
+  },
+  "GARE": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 448,
+    "y": 384
+  },
+  "HEURT...": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 448
+  },
+  "ID": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 448
+  },
+  "IDD DROIT": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 448
+  },
+  "IDD GAUCHE": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 448
+  },
+  "IDP": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 448
+  },
+  "IMP": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 448
+  },
+  "JAL ARR": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 448
+  },
+  "JAL ARR E": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 448,
+    "y": 448
+  },
+  "JAL MAN": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 512,
+    "y": 0
+  },
+  "JDZB": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 576,
+    "y": 0
+  },
+  "JDZN": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 640,
+    "y": 0
+  },
+  "L": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 704,
+    "y": 0
+  },
+  "LGR": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 768,
+    "y": 0
+  },
+  "LIMITETS": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 832,
+    "y": 0
+  },
+  "LM": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 896,
+    "y": 0
+  },
+  "LM2": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 960,
+    "y": 0
+  },
+  "MATD": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 512,
+    "y": 64
+  },
+  "MATG": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 576,
+    "y": 64
+  },
+  "MIBLAN VER": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 640,
+    "y": 64
+  },
+  "MIRLITON1": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 704,
+    "y": 64
+  },
+  "MIRLITON2": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 768,
+    "y": 64
+  },
+  "MIRLITON3": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 832,
+    "y": 64
+  },
+  "P": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 896,
+    "y": 64
+  },
+  "PN": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 960,
+    "y": 64
+  },
+  "PN...": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 512,
+    "y": 128
+  },
+  "R": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 576,
+    "y": 128
+  },
+  "REP TGV": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 640,
+    "y": 128
+  },
+  "REV": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 704,
+    "y": 128
+  },
+  "S": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 768,
+    "y": 128
+  },
+  "SAS": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 832,
+    "y": 128
+  },
+  "SECT": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 896,
+    "y": 128
+  },
+  "SIFFLER": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 960,
+    "y": 128
+  },
+  "SIG A DROITE": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 512,
+    "y": 192
+  },
+  "SIG A GAUCHE": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 576,
+    "y": 192
+  },
+  "STOP": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 640,
+    "y": 192
+  },
+  "STOP A": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 704,
+    "y": 192
+  },
+  "TECS": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 768,
+    "y": 192
+  },
+  "TIV D FIXE": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 832,
+    "y": 192
+  },
+  "TIV D FIXE 10": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 896,
+    "y": 192
+  },
+  "TIV D FIXE 100": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 960,
+    "y": 192
+  },
+  "TIV D FIXE 105": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 512,
+    "y": 256
+  },
+  "TIV D FIXE 110": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 576,
+    "y": 256
+  },
+  "TIV D FIXE 115": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 640,
+    "y": 256
+  },
+  "TIV D FIXE 120": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 704,
+    "y": 256
+  },
+  "TIV D FIXE 125": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 768,
+    "y": 256
+  },
+  "TIV D FIXE 130": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 832,
+    "y": 256
+  },
+  "TIV D FIXE 135": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 896,
+    "y": 256
+  },
+  "TIV D FIXE 140": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 960,
+    "y": 256
+  },
+  "TIV D FIXE 15": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 512,
+    "y": 320
+  },
+  "TIV D FIXE 15 35": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 576,
+    "y": 320
+  },
+  "TIV D FIXE 150": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 640,
+    "y": 320
+  },
+  "TIV D FIXE 160": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 704,
+    "y": 320
+  },
+  "TIV D FIXE 170": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 768,
+    "y": 320
+  },
+  "TIV D FIXE 180": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 832,
+    "y": 320
+  },
+  "TIV D FIXE 190": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 896,
+    "y": 320
+  },
+  "TIV D FIXE 20": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 960,
+    "y": 320
+  },
+  "TIV D FIXE 20 35": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 512,
+    "y": 384
+  },
+  "TIV D FIXE 25": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 576,
+    "y": 384
+  },
+  "TIV D FIXE 30": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 640,
+    "y": 384
+  },
+  "TIV D FIXE 30 35": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 704,
+    "y": 384
+  },
+  "TIV D FIXE 30 40": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 768,
+    "y": 384
+  },
+  "TIV D FIXE 35": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 832,
+    "y": 384
+  },
+  "TIV D FIXE 4": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 896,
+    "y": 384
+  },
+  "TIV D FIXE 40": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 960,
+    "y": 384
+  },
+  "TIV D FIXE 40 60": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 512,
+    "y": 448
+  },
+  "TIV D FIXE 45": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 576,
+    "y": 448
+  },
+  "TIV D FIXE 50": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 640,
+    "y": 448
+  },
+  "TIV D FIXE 50 30": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 704,
+    "y": 448
+  },
+  "TIV D FIXE 50 60": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 768,
+    "y": 448
+  },
+  "TIV D FIXE 50 70": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 832,
+    "y": 448
+  },
+  "TIV D FIXE 55": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 896,
+    "y": 448
+  },
+  "TIV D FIXE 60": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 960,
+    "y": 448
+  },
+  "TIV D FIXE 60 40": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 512
+  },
+  "TIV D FIXE 60 50": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 512
+  },
+  "TIV D FIXE 60 70": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 512
+  },
+  "TIV D FIXE 65": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 512
+  },
+  "TIV D FIXE 70": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 512
+  },
+  "TIV D FIXE 70 50": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 512
+  },
+  "TIV D FIXE 70 60": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 512
+  },
+  "TIV D FIXE 70 80": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 448,
+    "y": 512
+  },
+  "TIV D FIXE 75": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 512,
+    "y": 512
+  },
+  "TIV D FIXE 80": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 576,
+    "y": 512
+  },
+  "TIV D FIXE 80 70": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 640,
+    "y": 512
+  },
+  "TIV D FIXE 85": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 704,
+    "y": 512
+  },
+  "TIV D FIXE 90": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 768,
+    "y": 512
+  },
+  "TIV D FIXE 95": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 832,
+    "y": 512
+  },
+  "TIV D MOB": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 896,
+    "y": 512
+  },
+  "TIV D MOB 10": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 960,
+    "y": 512
+  },
+  "TIV D MOB 100": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 576
+  },
+  "TIV D MOB 110": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 576
+  },
+  "TIV D MOB 120": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 576
+  },
+  "TIV D MOB 130": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 576
+  },
+  "TIV D MOB 140": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 576
+  },
+  "TIV D MOB 150": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 576
+  },
+  "TIV D MOB 160": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 576
+  },
+  "TIV D MOB 170": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 448,
+    "y": 576
+  },
+  "TIV D MOB 180": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 512,
+    "y": 576
+  },
+  "TIV D MOB 190": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 576,
+    "y": 576
+  },
+  "TIV D MOB 20": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 640,
+    "y": 576
+  },
+  "TIV D MOB 30": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 704,
+    "y": 576
+  },
+  "TIV D MOB 40": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 768,
+    "y": 576
+  },
+  "TIV D MOB 50": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 832,
+    "y": 576
+  },
+  "TIV D MOB 60": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 896,
+    "y": 576
+  },
+  "TIV D MOB 70": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 960,
+    "y": 576
+  },
+  "TIV D MOB 80": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 640
+  },
+  "TIV D MOB 90": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 640
+  },
+  "TIV PENDIS": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 640
+  },
+  "TIV PENDIS 1": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 640
+  },
+  "TIV PENDIS 2": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 640
+  },
+  "TIV PENDIS 3": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 640
+  },
+  "TIV PENDIS 4": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 640
+  },
+  "TIV PENDIS 5": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 448,
+    "y": 640
+  },
+  "TIV PENDIS 6": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 512,
+    "y": 640
+  },
+  "TIV PENDIS 7": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 576,
+    "y": 640
+  },
+  "TIV PENDIS 8": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 640,
+    "y": 640
+  },
+  "TIV PENDIS 9": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 704,
+    "y": 640
+  },
+  "TIV PENEXE": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 768,
+    "y": 640
+  },
+  "TIV PENEXE 1": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 832,
+    "y": 640
+  },
+  "TIV PENEXE 2": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 896,
+    "y": 640
+  },
+  "TIV PENEXE 3": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 960,
+    "y": 640
+  },
+  "TIV PENEXE 4": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 704
+  },
+  "TIV PENEXE 5": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 704
+  },
+  "TIV PENEXE 6": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 704
+  },
+  "TIV PENEXE 7": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 704
+  },
+  "TIV PENEXE 8": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 704
+  },
+  "TIV PENEXE 9": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 704
+  },
+  "TIV PENREP": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 704
+  },
+  "TIV R MOB": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 448,
+    "y": 704
+  },
+  "TIV R MOB 10": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 512,
+    "y": 704
+  },
+  "TIV R MOB 100": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 576,
+    "y": 704
+  },
+  "TIV R MOB 110": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 640,
+    "y": 704
+  },
+  "TIV R MOB 120": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 704,
+    "y": 704
+  },
+  "TIV R MOB 130": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 768,
+    "y": 704
+  },
+  "TIV R MOB 140": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 832,
+    "y": 704
+  },
+  "TIV R MOB 150": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 896,
+    "y": 704
+  },
+  "TIV R MOB 160": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 960,
+    "y": 704
+  },
+  "TIV R MOB 170": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 768
+  },
+  "TIV R MOB 180": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 768
+  },
+  "TIV R MOB 190": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 768
+  },
+  "TIV R MOB 20": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 768
+  },
+  "TIV R MOB 3": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 768
+  },
+  "TIV R MOB 30": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 768
+  },
+  "TIV R MOB 40": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 768
+  },
+  "TIV R MOB 50": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 448,
+    "y": 768
+  },
+  "TIV R MOB 60": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 512,
+    "y": 768
+  },
+  "TIV R MOB 70": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 576,
+    "y": 768
+  },
+  "TIV R MOB 80": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 640,
+    "y": 768
+  },
+  "TIV R MOB 90": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 704,
+    "y": 768
+  },
+  "TIVD B FIX": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 768,
+    "y": 768
+  },
+  "TIVD B FIX 100": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 832,
+    "y": 768
+  },
+  "TIVD B FIX 100 110": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 896,
+    "y": 768
+  },
+  "TIVD B FIX 110": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 960,
+    "y": 768
+  },
+  "TIVD B FIX 120": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 832
+  },
+  "TIVD B FIX 130": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 832
+  },
+  "TIVD B FIX 135": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 832
+  },
+  "TIVD B FIX 140": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 832
+  },
+  "TIVD B FIX 140 150": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 832
+  },
+  "TIVD B FIX 145": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 832
+  },
+  "TIVD B FIX 145 155": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 832
+  },
+  "TIVD B FIX 150": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 448,
+    "y": 832
+  },
+  "TIVD B FIX 150 155": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 512,
+    "y": 832
+  },
+  "TIVD B FIX 155": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 576,
+    "y": 832
+  },
+  "TIVD B FIX 160": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 640,
+    "y": 832
+  },
+  "TIVD B FIX 170": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 704,
+    "y": 832
+  },
+  "TIVD B FIX 180": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 768,
+    "y": 832
+  },
+  "TIVD B FIX 190": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 832,
+    "y": 832
+  },
+  "TIVD B FIX 200": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 896,
+    "y": 832
+  },
+  "TIVD B FIX 30": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 960,
+    "y": 832
+  },
+  "TIVD B FIX 60": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 896
+  },
+  "TIVD B FIX 70": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 896
+  },
+  "TIVD B FIX 80": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 896
+  },
+  "TIVD B FIX 85": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 896
+  },
+  "TIVD B FIX 90": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 896
+  },
+  "TIVD B FIX 95": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 896
+  },
+  "TIVD C FIX": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 896
+  },
+  "TIVD C FIX 100": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 448,
+    "y": 896
+  },
+  "TIVD C FIX 100 120": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 512,
+    "y": 896
+  },
+  "TIVD C FIX 105": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 576,
+    "y": 896
+  },
+  "TIVD C FIX 110": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 640,
+    "y": 896
+  },
+  "TIVD C FIX 110 120": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 704,
+    "y": 896
+  },
+  "TIVD C FIX 110 130": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 768,
+    "y": 896
+  },
+  "TIVD C FIX 115": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 832,
+    "y": 896
+  },
+  "TIVD C FIX 120": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 896,
+    "y": 896
+  },
+  "TIVD C FIX 120 125": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 960,
+    "y": 896
+  },
+  "TIVD C FIX 120 130": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 960
+  },
+  "TIVD C FIX 125": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 960
+  },
+  "TIVD C FIX 130": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 960
+  },
+  "TIVD C FIX 130 120": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 960
+  },
+  "TIVD C FIX 130 140": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 960
+  },
+  "TIVD C FIX 130 150": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 960
+  },
+  "TIVD C FIX 135": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 960
+  },
+  "TIVD C FIX 140": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 448,
+    "y": 960
+  },
+  "TIVD C FIX 140 160": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 512,
+    "y": 960
+  },
+  "TIVD C FIX 145": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 576,
+    "y": 960
+  },
+  "TIVD C FIX 150": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 640,
+    "y": 960
+  },
+  "TIVD C FIX 155": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 704,
+    "y": 960
+  },
+  "TIVD C FIX 160": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 768,
+    "y": 960
+  },
+  "TIVD C FIX 180": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 832,
+    "y": 960
+  },
+  "TIVD C FIX 190": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 896,
+    "y": 960
+  },
+  "TIVD C FIX 200": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 960,
+    "y": 960
+  },
+  "TIVD C FIX 210": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 1024,
+    "y": 0
+  },
+  "TIVD C FIX 30": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 1088,
+    "y": 0
+  },
+  "TIVD C FIX 40": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 1152,
+    "y": 0
+  },
+  "TIVD C FIX 50": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 1216,
+    "y": 0
+  },
+  "TIVD C FIX 55": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 1280,
+    "y": 0
+  },
+  "TIVD C FIX 60": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 1344,
+    "y": 0
+  },
+  "TIVD C FIX 60 50": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 1408,
+    "y": 0
+  },
+  "TIVD C FIX 70": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 1472,
+    "y": 0
+  },
+  "TIVD C FIX 75": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 1536,
+    "y": 0
+  },
+  "TIVD C FIX 80": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 1600,
+    "y": 0
+  },
+  "TIVD C FIX 85": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 1664,
+    "y": 0
+  },
+  "TIVD C FIX 90": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 1728,
+    "y": 0
+  },
+  "TIVD C FIX 95": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 1792,
+    "y": 0
+  },
+  "TSCS": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 1856,
+    "y": 0
+  },
+  "VIDE": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 1920,
+    "y": 0
+  },
+  "VIDEN1": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 1984,
+    "y": 0
+  },
+  "VIDEN2": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 1024,
+    "y": 64
+  },
+  "Z": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 1088,
+    "y": 64
+  }
+}
