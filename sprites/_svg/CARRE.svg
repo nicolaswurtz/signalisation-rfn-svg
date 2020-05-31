@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg2"
+   version="1.1"
+   width="64"
+   height="64">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <g
+     id="g3769"
+     transform="translate(-107.73191,-4.8418837)">
+    <rect
+       style="fill:#ffffff;fill-opacity:0;stroke-width:6.4;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000"
+       id="rect832"
+       width="64"
+       height="64"
+       x="107.73191"
+       y="4.8418837" />
+    <g
+       id="g11-3"
+       paint-order="markers stroke fill"
+       transform="matrix(0,3.7794061,-3.7794061,0,-788.80772,-41.3656)">
+      <rect
+         id="rect2-6"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="1.058"
+         stroke="#000000"
+         fill="none"
+         ry="1.719"
+         y="-247.40401"
+         x="16.725"
+         height="3.4400001"
+         width="11.906" />
+      <rect
+         id="rect4-7"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.529"
+         stroke="#ffffff"
+         width="11.906"
+         height="3.4400001"
+         x="16.725"
+         y="-247.40401"
+         ry="1.682" />
+      <circle
+         id="n1-5"
+         fill="#ff0000"
+         r="0.66100001"
+         cy="-245.685"
+         cx="18.445" />
+      <circle
+         id="n2-3"
+         fill="#333333"
+         cx="20.562"
+         cy="-245.685"
+         r="0.66100001" />
+      <circle
+         id="n3-5"
+         fill="#333333"
+         r="0.66100001"
+         cy="-245.685"
+         cx="22.679001" />
+      <circle
+         id="n4-6"
+         fill="#ff0000"
+         cx="24.795"
+         cy="-245.685"
+         r="0.66100001" />
+      <circle
+         id="n5-2"
+         fill="#333333"
+         r="0.66100001"
+         cy="-245.685"
+         cx="26.912001" />
+    </g>
+  </g>
+</svg>
