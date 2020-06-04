@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   height="64"
+   width="64"
+   version="1.1"
+   id="svg2">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.99978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2989-6"
+     width="58.000221"
+     height="57.999866"
+     x="2.9998899"
+     y="2.9998899" />
+  <g
+     style="font-style:normal;font-weight:normal;font-size:28.8451px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.721129"
+     id="text833"
+     aria-label="2V">
+    <path
+       id="path920"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;-inkscape-font-specification:saxMono;stroke-width:0.721129"
+       d="m 20.528157,39.760571 h 7.802825 q 1.352114,0 1.352114,0.943663 0,0.915494 -1.098592,0.915494 h -9.788743 q -1.042255,0 -1.042255,-0.816902 0,-0.366198 0.394367,-0.845071 l 8.309868,-10.042264 q 1.295776,-1.563382 1.295776,-2.929581 0,-1.507044 -1.211269,-2.3662 -1.084508,-0.760564 -2.64789,-0.760564 -1.957749,0 -3.014088,1.225354 -0.507043,0.59155 -1.197184,2.281692 -0.492958,1.225354 -1.084508,1.225354 -0.845072,0 -0.845072,-1.000002 0,-1.140846 0.74648,-2.49296 1.718312,-3.098595 5.492964,-3.098595 2.352115,0 3.943666,1.197185 1.74648,1.323945 1.74648,3.605637 0,1.971833 -1.971833,4.338033 z" />
+    <path
+       id="path922"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;-inkscape-font-specification:saxMono;stroke-width:0.721129"
+       d="m 39.457754,38.352119 4.957752,-15.563396 q 0.253521,-0.788734 0.915493,-0.788734 0.915494,0 0.915494,0.788734 0,0.267606 -0.09859,0.577465 l -5.788739,18.014103 q -0.197183,0.619719 -0.915494,0.619719 -0.71831,0 -0.915494,-0.619719 L 32.697183,23.366188 q -0.09859,-0.309859 -0.09859,-0.577465 0,-0.788734 0.901409,-0.788734 0.633804,0 0.887325,0.788734 z" />
+  </g>
+</svg>
