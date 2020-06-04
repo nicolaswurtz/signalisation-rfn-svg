@@ -5,10 +5,10 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   id="svg2"
+   height="128"
+   width="128"
    version="1.1"
-   width="64"
-   height="64">
+   id="svg2">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -24,30 +24,30 @@
   <defs
      id="defs6" />
   <rect
-     style="fill:#ffffff;fill-opacity:0;stroke-width:6.4;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000"
-     id="rect832"
-     width="64"
-     height="64"
+     y="-4.0637207e-08"
      x="7.0556644e-07"
-     y="-4.0637207e-08" />
+     height="128"
+     width="128"
+     id="rect832"
+     style="fill:#ffffff;fill-opacity:0;stroke-width:12.8;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000" />
   <g
-     id="g837"
-     transform="matrix(1.8823529,0,0,1.8823529,-217.8483,13.474101)">
+     transform="matrix(1.8823529,0,0,1.8823529,-185.8483,77.474101)"
+     id="g837">
     <rect
-       ry="1.1845006"
-       y="16.841885"
-       x="115.73191"
-       height="10"
-       width="34"
+       style="vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.5695;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;stop-color:#000000"
        id="rect833"
-       style="vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.5695;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;stop-color:#000000" />
+       width="34"
+       height="10"
+       x="115.73191"
+       y="16.841885"
+       ry="1.1845006" />
     <rect
-       style="vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:4.05241;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;stop-color:#000000"
-       id="rect841"
-       width="30"
-       height="6"
-       x="117.73191"
+       ry="0.058100525"
        y="18.841885"
-       ry="0.058100525" />
+       x="117.73191"
+       height="6"
+       width="30"
+       id="rect841"
+       style="vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:4.05241;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;stop-color:#000000" />
   </g>
 </svg>
