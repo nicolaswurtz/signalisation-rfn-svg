@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg2"
+   version="1.1"
+   width="64"
+   height="64">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <rect
+     y="2.9998899"
+     x="2.9998899"
+     height="57.999866"
+     width="58.000221"
+     id="rect2989-6"
+     style="fill:#405CB1;fill-opacity:1;stroke:#E4EAF6;stroke-width:5.99978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <g
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.4204px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#E4EAF6;fill-opacity:1;stroke:none;stroke-width:6.42755"
+     id="text845"
+     aria-label="S">
+    <path
+       id="path941"
+       style="fill:#E4EAF6;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;-inkscape-font-specification:saxMono;stroke-width:6.42755"
+       d="m 20.199421,23.350426 q 0,-4.695124 3.414636,-7.105456 2.962699,-2.083932 7.858684,-2.083932 7.5825,0 10.84649,3.715928 0.853659,0.979197 0.853659,1.78264 0,1.406027 -1.481349,1.406027 -0.602583,0 -1.832856,-0.828551 -1.205166,-0.828552 -2.761838,-1.556673 -2.661408,-1.205165 -5.90029,-1.205165 -3.16356,0 -5.172169,1.280488 -2.410331,1.506457 -2.410331,4.494264 0,3.540173 5.322814,5.172169 l 9.641325,3.012914 q 5.598999,2.460546 5.598999,8.687235 0,4.820662 -3.967004,7.5825 -3.339313,2.134147 -8.662127,2.134147 -3.263991,0 -6.904595,-1.104735 -4.820662,-1.481349 -4.820662,-3.916788 0,-1.431134 1.456241,-1.431134 0.703014,0 3.263991,1.406027 3.163559,1.732425 7.281208,1.732425 3.565282,0 6.025828,-1.556672 2.912484,-1.832856 2.912484,-5.197277 0,-4.720232 -5.624106,-6.126258 l -7.281209,-2.309901 q -7.657823,-2.033717 -7.657823,-7.984222 z" />
+  </g>
+</svg>
