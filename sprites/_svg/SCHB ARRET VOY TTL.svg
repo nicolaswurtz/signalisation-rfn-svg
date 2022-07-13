@@ -36,15 +36,15 @@
      aria-label="TTL">
     <path
        id="path1183"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;-inkscape-font-specification:saxMono;stroke-width:0.721129"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;stroke-width:0.721129"
        d="M 15.225335,24.218302 H 10.0704 q -1.0000007,0 -1.0000007,-0.887325 0,-0.957747 1.1408467,-0.957747 h 11.915505 q 1.169015,0 1.169015,0.915493 0,0.929579 -1.169015,0.929579 H 17.14083 V 40.90846 q 0,1.098593 -0.943663,1.098593 -0.971832,0 -0.971832,-1.098593 z" />
     <path
        id="path1185"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;-inkscape-font-specification:saxMono;stroke-width:0.721129"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;stroke-width:0.721129"
        d="m 31.042253,24.218302 h -5.154935 q -1.000001,0 -1.000001,-0.887325 0,-0.957747 1.140846,-0.957747 h 11.915505 q 1.169016,0 1.169016,0.915493 0,0.929579 -1.169016,0.929579 h -4.98592 V 40.90846 q 0,1.098593 -0.943663,1.098593 -0.971832,0 -0.971832,-1.098593 z" />
     <path
        id="path1187"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;-inkscape-font-specification:saxMono;stroke-width:0.721129"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;stroke-width:0.721129"
        d="m 43.591561,39.753529 h 10.126771 q 1.211269,0 1.211269,0.943663 0,0.915494 -1.211269,0.915494 H 42.676067 q -0.380282,0 -0.690141,-0.225352 -0.30986,-0.239437 -0.30986,-0.74648 V 23.302808 q 0,-1.309861 0.957748,-1.309861 0.957747,0 0.957747,1.394368 z" />
   </g>
 </svg>

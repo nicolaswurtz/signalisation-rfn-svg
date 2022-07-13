@@ -17,40 +17,33 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs6" />
+  <path
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#E4EAF6;fill-opacity:1;stroke:none;stroke-width:1.17004px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 12,64 H 52 V 17.454546 L 32,3e-7 12,17.454546 Z"
+     id="path836" />
+  <path
+     id="path858"
+     d="M 14,62 H 50 V 18.615246 L 32,2.3856543 14,18.570828 Z"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#405CB1;fill-opacity:1;stroke:none;stroke-width:1.05304px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   <g
-     id="g3769"
-     transform="translate(-107.73191,-4.8418837)">
-    <g
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#E4EAF6;fill-opacity:1;stroke:none;stroke-width:3.75"
-       id="text841"
-       aria-label="60">
-      <path
-         style="fill:#E4EAF6;fill-opacity:1;stroke:none;stroke-width:1.17004px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 119.73191,68.841884 h 40 V 22.29643 l -20,-17.454546 -20,17.454546 z"
-         id="path836" />
-      <path
-         id="path858"
-         d="m 121.73191,66.841884 h 36 V 23.45713 l -18,-16.229592 -18,16.185174 z"
-         style="fill:#405CB1;fill-opacity:1;stroke:none;stroke-width:1.05304px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <g
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38px;line-height:1.25;font-family:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#E4EAF6;fill-opacity:1;stroke:none;stroke-width:17.8125"
-         id="text862"
-         aria-label="5" />
-      <g
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38px;line-height:1.25;font-family:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#E4EAF6;fill-opacity:1;stroke:none;stroke-width:17.8125"
-         id="text838"
-         aria-label="1">
-        <path
-           id="path840"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:PoliceSNCF;stroke-width:17.8125"
-           d="m 136.29929,62.841885 h 6.86523 v -38 h -6.86523 z" />
-      </g>
-    </g>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38px;line-height:1.25;font-family:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#E4EAF6;fill-opacity:1;stroke:none;stroke-width:17.8125"
+     id="text862"
+     aria-label="5"
+     transform="translate(-107.73191,-4.8418837)" />
+  <g
+     transform="translate(59.52428)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.7671px;line-height:1.25;font-family:saxMono;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#E4EAF6;fill-opacity:1;stroke:none;stroke-width:6.84588"
+     id="texte"
+     aria-label="1">
+    <path
+       id="path11"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.7671px;line-height:1.25;font-family:saxMono;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#E4EAF6;fill-opacity:1;stroke:none;stroke-width:6.84588"
+       d="M -28.794513,53.721344 V 24.225195 h -5.294867 q -2.005631,0 -2.005631,-1.738213 0,-1.764956 2.005631,-1.764956 h 7.113305 q 1.818439,0 1.818439,1.764956 v 31.234362 h 5.615768 q 2.059114,0 2.059114,1.871923 0,1.657988 -2.059114,1.657988 h -15.964824 q -2.059115,0 -2.059115,-1.764955 0,-1.764956 2.059115,-1.764956 z" />
   </g>
 </svg>

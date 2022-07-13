@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   height="64"
+   width="64"
+   version="1.1"
+   id="svg2">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <path
+     id="path836"
+     d="M 12,0 H 52 V 46.545454 L 32,64 12,46.545454 Z"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.17004px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.11154px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 16,4 H 48 V 45 L 32,59 16,45 Z"
+     id="path858" />
+  <g
+     transform="translate(60.059116)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.7671px;line-height:1.25;font-family:saxMono;-inkscape-font-specification:saxMono;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.84588"
+     id="texte"
+     aria-label="5">
+    <path
+       id="path10"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.7671px;line-height:1.25;font-family:saxMono;-inkscape-font-specification:saxMono;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.84588"
+       d="m -32.72555,21.825483 q 3.503169,-1.577763 6.070376,-1.577763 4.332164,0 7.166789,3.048559 2.7544,2.968334 2.7544,7.32724 0,7.273755 -7.006338,11.605918 -6.016893,3.743845 -13.718517,3.743845 -1.925406,0 -1.925406,-1.577763 0,-1.577763 2.353274,-1.791697 6.41802,-0.61506 9.760738,-2.326532 6.87263,-3.529911 6.87263,-9.62703 0,-2.888109 -1.631247,-4.866998 -1.764955,-2.112598 -4.599581,-2.112598 -1.818439,0 -4.572839,1.176637 -2.727658,1.176637 -3.503169,1.176637 -1.444054,0 -1.363829,-2.059115 l 0.427868,-12.007045 q 0.05348,-1.551021 0.45461,-2.1660817 0.534835,-1.06967 1.978889,-1.06967 h 13.745259 q 1.978889,0 1.978889,1.7114717 0,0.748769 -0.61506,1.283604 -0.588318,0.508093 -1.363829,0.508093 h -12.862781 z" />
+  </g>
+</svg>

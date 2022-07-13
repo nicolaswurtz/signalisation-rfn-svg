@@ -5,10 +5,10 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   height="64"
-   width="64"
+   id="svg2"
    version="1.1"
-   id="svg2">
+   width="64"
+   height="64">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -17,41 +17,27 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs6" />
+  <rect
+     y="1.00007"
+     x="1.0000679"
+     height="61.999863"
+     width="61.999863"
+     id="rect2989-6"
+     style="fill:#405CB1;fill-opacity:1;stroke:#E4EAF6;stroke-width:2.00014;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <g
-     transform="translate(-107.73191,-4.8418837)"
-     id="g3769">
-    <g
-       transform="translate(150,10)"
-       id="g854">
-      <rect
-         style="fill:#405CB1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.636824"
-         id="rect2987-3"
-         width="64"
-         height="64"
-         x="-42.268089"
-         y="-5.1581163" />
-      <rect
-         style="fill:none;stroke:#E4EAF6;stroke-width:3.97394;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect2989-6"
-         width="58.026062"
-         height="58.026058"
-         x="-39.28112"
-         y="-2.1711454" />
-    </g>
-    <g
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#E4EAF6;fill-opacity:1;stroke:none;stroke-width:3.75"
-       id="text839"
-       aria-label="4">
-      <path
-         id="path844"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:PoliceSNCF;stroke-width:3.75"
-         d="m 140.64011,41.031338 h -3.89649 l 3.89649,-8.378907 z m -9.90235,0 v 5.419922 h 9.90235 v 5.390625 h 5.39062 V 46.45126 h 2.69531 v -5.419922 h -2.69531 V 21.841885 h -5.36133 z" />
-    </g>
+     transform="translate(39.27508)"
+     style="font-style:normal;font-weight:normal;font-size:36.031px;line-height:1.25;font-family:saxMono;letter-spacing:0px;word-spacing:0px;fill:#E4EAF6;fill-opacity:1;stroke:none;stroke-width:4.8718"
+     id="texte"
+     aria-label="4">
+    <path
+       id="path9"
+       style="font-style:normal;font-weight:normal;font-size:36.031px;line-height:1.25;font-family:saxMono;letter-spacing:0px;word-spacing:0px;fill:#E4EAF6;fill-opacity:1;stroke:none;stroke-width:4.8718"
+       d="m -5.8324325,39.450746 h -8.0401205 q -1.090782,0 -1.090782,-0.80929 0,-0.439832 0.404645,-1.67136 l 5.1900121,-15.851528 q 0.2990854,-0.914849 0.404645,-1.090782 0.3166786,-0.527798 0.9148495,-0.527798 1.0907822,0 1.0907822,1.038003 0,0.246305 -0.1759326,0.80929 l -4.9788932,15.781155 h 6.2807945 v -9.76426 q 0,-1.354681 1.213935,-1.354681 1.1787485,0 1.1787485,1.354681 v 9.76426 h 2.51583626 q 1.33708783,0 1.33708783,1.161155 0,1.161155 -1.33708783,1.161155 H -3.439749 v 3.676991 q 0,1.354682 -1.1963418,1.354682 -1.1963417,0 -1.1963417,-1.354682 z" />
   </g>
 </svg>

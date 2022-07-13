@@ -36,15 +36,15 @@
      aria-label="REV">
     <path
        id="path857"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;-inkscape-font-specification:saxMono;stroke-width:0.720619"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;stroke-width:0.720619"
        d="m 18.952837,32.950038 4.109786,7.375095 q 0.253343,0.450388 0.253343,0.844477 0,0.830402 -0.872626,0.830402 -0.619283,0 -1.027446,-0.717805 l -4.447577,-7.93808 h -5.376501 v 7.558065 q 0,1.09782 -0.957073,1.09782 -0.9711483,0 -0.9711483,-1.09782 V 23.421527 q 0,-0.591134 0.1970445,-0.816327 0.1970448,-0.225194 0.7881778,-0.225194 h 7.079529 q 2.434907,0 3.757921,1.534132 1.238565,1.449685 1.238565,3.926816 0,2.251938 -0.816327,3.363832 -0.802253,1.111894 -2.955668,1.745252 z m -7.361021,-1.46376 h 5.292053 q 3.926817,0 3.926817,-3.631249 0,-1.576356 -0.689656,-2.53343 -0.774104,-1.097819 -2.294162,-1.097819 h -6.235052 z" />
     <path
        id="path859"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;-inkscape-font-specification:saxMono;stroke-width:0.720619"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;stroke-width:0.720619"
        d="m 27.397602,24.22378 v 6.502469 h 6.727664 q 1.337088,0 1.337088,0.858552 0,0.985222 -1.337088,0.985222 h -6.727664 v 7.178051 h 9.415914 q 1.337088,0 1.337088,0.872626 0,0.985223 -1.337088,0.985223 H 26.665723 q -1.196342,0 -1.196342,-1.168193 V 23.477826 q 0,-0.478537 0.351865,-0.788179 0.351865,-0.309641 0.844477,-0.309641 h 10.133719 q 1.351162,0 1.351162,0.858551 0,0.985223 -1.351162,0.985223 z" />
     <path
        id="path861"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;-inkscape-font-specification:saxMono;stroke-width:0.720619"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;stroke-width:0.720619"
        d="M 47.552443,38.340613 52.506705,22.78817 q 0.253343,-0.788178 0.91485,-0.788178 0.91485,0 0.91485,0.788178 0,0.267417 -0.09852,0.577059 l -5.784664,18.001425 q -0.197045,0.619283 -0.91485,0.619283 -0.717805,0 -0.914849,-0.619283 L 40.79663,23.365229 q -0.09852,-0.309642 -0.09852,-0.577059 0,-0.788178 0.900775,-0.788178 0.633357,0 0.8867,0.788178 z" />
   </g>
 </svg>

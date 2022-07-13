@@ -52,16 +52,16 @@
      style="fill:#405CB1;fill-opacity:1;stroke:#E4EAF6;stroke-width:5.99978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect2989-6" />
   <g
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.2676px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#E4EAF6;fill-opacity:1;stroke:none;stroke-width:5.40844"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.2676px;line-height:1.25;font-family:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#E4EAF6;fill-opacity:1;stroke:none;stroke-width:5.40844"
      id="text835"
      aria-label="LM">
     <path
        id="path838"
-       style="fill:#E4EAF6;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;-inkscape-font-specification:saxMono;stroke-width:5.40844"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;stroke-width:5.40844"
        d="m 13.355636,43.640845 h 15.190139 q 1.816901,0 1.816901,1.415493 0,1.373239 -1.816901,1.373239 H 11.982396 q -0.570422,0 -1.035211,-0.338028 -0.464788,-0.359155 -0.464788,-1.119718 v -26.00704 q 0,-1.964788 1.436619,-1.964788 1.43662,0 1.43662,2.091549 z" />
     <path
        id="path840"
-       style="fill:#E4EAF6;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;-inkscape-font-specification:saxMono;stroke-width:5.40844"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;stroke-width:5.40844"
        d="m 43.672534,34.683099 6.845069,-16.457744 q 0.507043,-1.225352 1.626761,-1.225352 1.373239,0 1.373239,1.901408 v 26.535208 q 0,1.56338 -1.394366,1.56338 -1.5,0 -1.5,-1.943661 V 24.225354 l -5.661971,13.309858 q -0.528169,1.246478 -1.352113,1.246478 -0.90845,0 -1.457746,-1.246478 L 36.214788,24.225354 v 21.211265 q 0,1.56338 -1.43662,1.56338 -1.457746,0 -1.457746,-1.753521 v -26.32394 q 0,-1.922535 1.542253,-1.922535 0.992958,0 1.478874,1.119718 z" />
   </g>
 </svg>

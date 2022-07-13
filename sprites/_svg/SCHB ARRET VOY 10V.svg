@@ -36,15 +36,15 @@
      aria-label="10V">
     <path
        id="path1035"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;-inkscape-font-specification:saxMono;stroke-width:0.721129"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;stroke-width:0.721129"
        d="M 14.845053,39.760571 V 24.225344 h -2.788735 q -1.056339,0 -1.056339,-0.915494 0,-0.929579 1.056339,-0.929579 h 3.746483 q 0.957747,0 0.957747,0.929579 v 16.450721 h 2.95775 q 1.084508,0 1.084508,0.985917 0,0.87324 -1.084508,0.87324 h -8.40846 q -1.084508,0 -1.084508,-0.929578 0,-0.929579 1.084508,-0.929579 z" />
     <path
        id="path1037"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;-inkscape-font-specification:saxMono;stroke-width:0.721129"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;stroke-width:0.721129"
        d="m 25.281683,36.084511 v -8.169023 q 0,-2.605636 1.591551,-4.253525 1.605636,-1.661974 4.408455,-1.661974 2.80282,0 4.366202,1.661974 1.563382,1.661974 1.563382,4.253525 v 8.169023 q 0,2.873242 -1.521128,4.394371 -1.521129,1.521128 -4.408456,1.521128 -2.802819,0 -4.408455,-1.563382 -1.591551,-1.563382 -1.591551,-4.352117 z m 10.000011,0 v -8.169023 q 0,-1.788734 -1.084509,-2.915495 -1.070423,-1.140847 -3.056341,-1.140847 -3.929581,0 -3.929581,4.056342 v 8.169023 q 0,1.92958 1.070423,3.000003 1.070424,1.070424 3.014088,1.070424 3.98592,0 3.98592,-4.070427 z" />
     <path
        id="path1039"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;-inkscape-font-specification:saxMono;stroke-width:0.721129"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;stroke-width:0.721129"
        d="m 46.985931,38.352119 4.957751,-15.563396 q 0.253522,-0.788734 0.915494,-0.788734 0.915494,0 0.915494,0.788734 0,0.267606 -0.09859,0.577465 L 47.88734,41.380291 q -0.197183,0.619719 -0.915494,0.619719 -0.71831,0 -0.915494,-0.619719 L 40.22536,23.366188 q -0.09859,-0.309859 -0.09859,-0.577465 0,-0.788734 0.901409,-0.788734 0.633803,0 0.887325,0.788734 z" />
   </g>
 </svg>

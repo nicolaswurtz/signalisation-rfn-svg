@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   height="64"
+   width="64"
+   version="1.1"
+   id="svg2">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <path
+     id="path836"
+     d="M 12,0 H 52 V 46.545454 L 32,64 12,46.545454 Z"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.17004px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1.11154px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 16,4 H 48 V 45 L 32,59 16,45 Z"
+     id="path858" />
+  <g
+     transform="translate(59.68473)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.7671px;line-height:1.25;font-family:saxMono;-inkscape-font-specification:saxMono;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:6.84588"
+     id="texte"
+     aria-label="8">
+    <path
+       id="path10"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.7671px;line-height:1.25;font-family:saxMono;-inkscape-font-specification:saxMono;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:6.84588"
+       d="m -32.618583,25.275169 q -4.947224,-2.433499 -4.947224,-7.48769 0,-4.225196 2.914851,-7.006338 2.91485,-2.7811419 7.140047,-2.7811419 4.171712,0 6.926112,2.6741749 2.754401,2.674175 2.754401,6.845888 0,4.813514 -4.599581,7.701623 6.070377,2.834626 6.070377,9.573546 0,5.054191 -3.021818,8.129492 -3.021817,3.048559 -8.076008,3.048559 -4.947223,0 -8.182975,-2.995076 -3.36946,-3.075301 -3.36946,-7.969041 0,-6.872629 6.391278,-9.733996 z m 5.134415,-1.52428 q 2.7544,0 4.358905,-1.577763 1.631247,-1.604505 1.631247,-4.358905 0,-2.7544 -1.68473,-4.519356 -1.68473,-1.764955 -4.412389,-1.764955 -2.7544,0 -4.546097,1.818439 -1.764955,1.818439 -1.764955,4.599581 0,2.674175 1.898664,4.278679 1.791697,1.52428 4.519355,1.52428 z m -0.02674,3.262493 q -3.50317,0 -5.669251,2.166082 -2.166082,2.13934 -2.166082,5.642509 0,3.503169 2.353274,5.829701 2.380016,2.299791 5.909926,2.299791 3.315977,0 5.241383,-2.299791 1.818439,-2.192823 1.818439,-5.66925 0,-3.422944 -2.005631,-5.642509 -2.085856,-2.326533 -5.482058,-2.326533 z" />
+  </g>
+</svg>

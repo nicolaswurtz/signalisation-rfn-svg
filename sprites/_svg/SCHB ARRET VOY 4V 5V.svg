@@ -37,11 +37,11 @@
 5">
     <path
        id="path1364"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;-inkscape-font-specification:saxMono;text-align:center;text-anchor:middle;stroke-width:0.539282"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;text-align:center;text-anchor:middle;stroke-width:0.539282"
        d="m 20.614014,22.595345 h -4.813517 q -0.653038,0 -0.653038,-0.484511 0,-0.263322 0.242256,-1.000622 l 3.107194,-9.490108 q 0.179059,-0.547709 0.242256,-0.653038 0.189592,-0.315986 0.547709,-0.315986 0.653037,0 0.653037,0.621439 0,0.14746 -0.105328,0.484512 l -2.9808,9.447977 h 3.760231 V 15.35927 q 0,-0.811031 0.726768,-0.811031 0.705702,0 0.705702,0.811031 v 5.845738 h 1.506199 q 0.800497,0 0.800497,0.695169 0,0.695168 -0.800497,0.695168 h -1.506199 v 2.201369 q 0,0.81103 -0.716235,0.81103 -0.716235,0 -0.716235,-0.81103 z" />
     <path
        id="path1366"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;-inkscape-font-specification:saxMono;text-align:center;text-anchor:middle;stroke-width:0.539282"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;text-align:center;text-anchor:middle;stroke-width:0.539282"
        d="m 17.770142,43.837747 q 1.379805,-0.621439 2.390959,-0.621439 1.706324,0 2.822807,1.200746 1.084885,1.169148 1.084885,2.886004 0,2.864939 -2.75961,4.571262 -2.369894,1.474601 -5.403358,1.474601 -0.758366,0 -0.758366,-0.621439 0,-0.621439 0.926892,-0.705702 2.527887,-0.242255 3.844494,-0.916358 2.706946,-1.390338 2.706946,-3.791831 0,-1.137549 -0.642505,-1.91698 -0.695168,-0.832097 -1.811652,-0.832097 -0.716234,0 -1.801119,0.463446 -1.074352,0.463446 -1.379805,0.463446 -0.568775,0 -0.537176,-0.81103 l 0.168526,-4.729255 q 0.02107,-0.610906 0.179058,-0.853162 0.210658,-0.421314 0.779432,-0.421314 h 5.413891 q 0.779432,0 0.779432,0.674103 0,0.29492 -0.242256,0.505577 -0.231723,0.200125 -0.537176,0.200125 h -5.066306 z" />
   </g>
   <g
@@ -50,7 +50,7 @@
      aria-label="V">
     <path
        id="path1357"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;-inkscape-font-specification:saxMono;text-align:center;text-anchor:middle;stroke-width:0.539282"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;text-align:center;text-anchor:middle;stroke-width:0.539282"
        d="m 42.129503,36.750319 3.707568,-11.638812 q 0.189591,-0.58984 0.684636,-0.58984 0.684636,0 0.684636,0.58984 0,0.200124 -0.07373,0.431847 l -4.329006,13.47153 q -0.14746,0.463446 -0.684636,0.463446 -0.537176,0 -0.684636,-0.463446 L 37.07373,25.543354 Q 37,25.311631 37,25.111507 q 0,-0.58984 0.674103,-0.58984 0.473979,0 0.66357,0.58984 z" />
   </g>
 </svg>

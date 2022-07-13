@@ -35,7 +35,7 @@
   <g
      aria-label="M"
      id="text834"
-     style="fill:#E4EAF6;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.9606px;line-height:1.25;font-family:saxMono;-inkscape-font-specification:saxMono;letter-spacing:0px;word-spacing:0px;fill:#E4EAF6;fill-opacity:1;stroke:none;stroke-width:0.649014">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.9606px;line-height:1.25;font-family:saxMono;letter-spacing:0px;word-spacing:0px;fill:#E4EAF6;fill-opacity:1;stroke:none;stroke-width:0.649014">
     <path
        d="m 32.152112,31.609875 4.107048,-9.874662 q 0.304226,-0.735212 0.976058,-0.735212 0.823945,0 0.823945,1.140846 v 15.92115 q 0,0.938029 -0.836621,0.938029 -0.900001,0 -0.900001,-1.166199 V 25.335218 l -3.397188,7.985927 q -0.316902,0.747888 -0.811269,0.747888 -0.545071,0 -0.874649,-0.747888 l -3.561977,-7.985927 v 12.726779 q 0,0.938029 -0.861973,0.938029 -0.874649,0 -0.874649,-1.052114 V 22.153523 q 0,-1.153522 0.925353,-1.153522 0.595776,0 0.887325,0.671832 z"
        style="stroke-width:0.649014"
@@ -44,7 +44,7 @@
   <g
      aria-label="Nf"
      id="text838"
-     style="fill:#E4EAF6;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.9606px;line-height:1.25;font-family:saxMono;-inkscape-font-specification:saxMono;letter-spacing:0px;word-spacing:0px;fill:#E4EAF6;fill-opacity:1;stroke:none;stroke-width:0.649014">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.9606px;line-height:1.25;font-family:saxMono;letter-spacing:0px;word-spacing:0px;fill:#E4EAF6;fill-opacity:1;stroke:none;stroke-width:0.649014">
     <path
        d="M 29.12253,55.147908 V 41.964791 q 0,-1.191551 0.836621,-1.191551 0.887326,0 0.887326,1.191551 v 15.908473 q 0,0.900001 -0.861973,0.900001 -0.595776,0 -0.925354,-0.545071 L 20.819702,44.411273 v 13.385934 q 0,0.976058 -0.912677,0.976058 -0.823945,0 -0.823945,-0.976058 V 41.964791 q 0,-1.191551 0.836621,-1.191551 0.519719,0 0.912677,0.659156 z"
        style="stroke-width:0.649014"

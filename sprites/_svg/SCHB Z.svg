@@ -31,12 +31,12 @@
      id="rect2989-6"
      style="fill:#405CB1;fill-opacity:1;stroke:#E4EAF6;stroke-width:5.99978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <g
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.4204px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#E4EAF6;fill-opacity:1;stroke:none;stroke-width:6.42755"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.4204px;line-height:1.25;font-family:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#E4EAF6;fill-opacity:1;stroke:none;stroke-width:6.42755"
      id="text845"
      aria-label="Z">
     <path
        id="path912"
-       style="fill:#E4EAF6;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;-inkscape-font-specification:saxMono;stroke-width:6.42755"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:saxMono;stroke-width:6.42755"
        d="M 39.243547,18.140596 H 22.647412 q -2.309901,0 -2.309901,-1.631995 0,-1.657103 2.309901,-1.657103 h 18.780497 q 2.234578,0 2.234578,1.406027 0,0.753228 -0.778336,1.908179 L 24.078546,45.834297 h 17.951946 q 2.309901,0 2.309901,1.707318 0,1.05452 -0.677906,1.380919 -0.426829,0.225968 -1.631995,0.225968 H 21.869076 q -2.20947,0 -2.20947,-1.330703 0,-0.979197 0.928981,-2.335009 z" />
   </g>
 </svg>

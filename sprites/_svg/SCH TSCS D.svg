@@ -24,7 +24,7 @@
   <defs
      id="defs6" />
   <rect
-     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.99978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#f2f2f2;fill-opacity:1;stroke:#333333;stroke-width:5.99978;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect2989-6"
      width="58.000221"
      height="57.999866"
@@ -33,5 +33,5 @@
   <path
      id="path833"
      d="M 14.32233,49.67767 49.67767,14.32233"
-     style="fill:none;stroke:#000000;stroke-width:6.32456;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     style="fill:none;stroke:#333333;stroke-width:6.32456;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
 </svg>
