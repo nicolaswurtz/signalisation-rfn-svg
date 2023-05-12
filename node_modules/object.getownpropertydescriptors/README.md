@@ -1,6 +1,7 @@
-# Object.getOwnPropertyDescriptors <sup>[![Version Badge][npm-version-svg]][package-url]</sup>
+# object.getownpropertydescriptors <sup>[![Version Badge][npm-version-svg]][package-url]</sup>
 
-[![Build Status][travis-svg]][travis-url]
+[![github actions][actions-image]][actions-url]
+[![coverage][codecov-image]][codecov-url]
 [![dependency status][deps-svg]][deps-url]
 [![dev dependency status][dev-deps-svg]][dev-deps-url]
 [![License][license-image]][license-url]
@@ -81,15 +82,19 @@ assert.deepEqual(shimmedDescriptors(obj), getDescriptors(obj));
 Simply clone the repo, `npm install`, and run `npm test`
 
 [package-url]: https://npmjs.org/package/object.getownpropertydescriptors
-[npm-version-svg]: http://versionbadg.es/es-shims/object.getownpropertydescriptors.svg
+[npm-version-svg]: http://versionbadg.es/es-shims/Object.getOwnPropertyDescriptors.svg
 [travis-svg]: https://travis-ci.org/es-shims/Object.getOwnPropertyDescriptors.svg
 [travis-url]: https://travis-ci.org/es-shims/Object.getOwnPropertyDescriptors
-[deps-svg]: https://david-dm.org/es-shims/object.getownpropertydescriptors.svg
-[deps-url]: https://david-dm.org/es-shims/object.getownpropertydescriptors
-[dev-deps-svg]: https://david-dm.org/es-shims/object.getownpropertydescriptors/dev-status.svg
-[dev-deps-url]: https://david-dm.org/es-shims/object.getownpropertydescriptors#info=devDependencies
+[deps-svg]: https://david-dm.org/es-shims/Object.getOwnPropertyDescriptors.svg
+[deps-url]: https://david-dm.org/es-shims/Object.getOwnPropertyDescriptors
+[dev-deps-svg]: https://david-dm.org/es-shims/Object.getOwnPropertyDescriptors/dev-status.svg
+[dev-deps-url]: https://david-dm.org/es-shims/Object.getOwnPropertyDescriptors#info=devDependencies
 [npm-badge-png]: https://nodei.co/npm/object.getownpropertydescriptors.png?downloads=true&stars=true
 [license-image]: http://img.shields.io/npm/l/object.getownpropertydescriptors.svg
 [license-url]: LICENSE
 [downloads-image]: http://img.shields.io/npm/dm/object.getownpropertydescriptors.svg
 [downloads-url]: http://npm-stat.com/charts.html?package=object.getownpropertydescriptors
+[codecov-image]: https://codecov.io/gh/es-shims/Object.getOwnPropertyDescriptors/branch/main/graphs/badge.svg
+[codecov-url]: https://app.codecov.io/gh/es-shims/Object.getOwnPropertyDescriptors/
+[actions-image]: https://img.shields.io/endpoint?url=https://github-actions-badge-u3jn4tfpocch.runkit.sh/es-shims/Object.getOwnPropertyDescriptors
+[actions-url]: https://github.com/es-shims/Object.getOwnPropertyDescriptors/actions
