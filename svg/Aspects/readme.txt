@@ -1,0 +1,1 @@
+Aspects générés automatiquement par SignalGenerator à partir des fichiers cibles optimisés.
